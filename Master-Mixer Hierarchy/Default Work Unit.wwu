@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{475055EE-4095-46F4-9E40-C36070F612B7}" SchemaVersion="62">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{475055EE-4095-46F4-9E40-C36070F612B7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ChildrenList>
+						<Bus Name="axfywjh" ID="{96AA83A3-CD20-4D41-B4EF-2DB59F1002FF}">
+							<ChildrenList>
+								<Bus Name="nhisih" ID="{02B041FC-E3BC-464E-894B-6D15CA0048B1}">
+									<ChildrenList>
+										<Bus Name="music_system_bus" ID="{AE1659AB-E3D4-4D4C-B5C4-5D6BB26FB7CF}">
+											<PropertyList>
+												<Property Name="BusVolume" Type="Real64">
+													<ValueList>
+														<Value>-5.5</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ChildrenList>
+												<Bus Name="music_main_bus" ID="{9E1BE091-2B2D-4AF6-B0A4-02163450C9F8}" />
+											</ChildrenList>
+										</Bus>
+									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="pause" ID="{C0679FF1-14D1-4185-8C53-58350697AA0D}" />
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="aa2yqqx" ID="{54F1BE13-30F1-4C93-8683-EE07AFBF689E}" />
+												<State Name="Custom State" ID="{C671B19A-AE5C-4BF7-953F-94ADCAE672F8}" ShortID="313066086">
+													<PropertyList>
+														<Property Name="Volume" Type="Real64" Value="-200" />
+													</PropertyList>
+												</State>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
+								</Bus>
+								<Bus Name="nizijb" ID="{85DA2BB4-3624-48E5-B885-B487E9720A03}">
+									<ChildrenList>
+										<Bus Name="a0ed468" ID="{9A3EAB9D-2184-418B-BFE0-588B81B4E12A}">
+											<ChildrenList>
+												<Bus Name="xlm0oh" ID="{2E54DDC0-3561-49DE-B745-439CDC1BB636}" />
+											</ChildrenList>
+										</Bus>
+										<Bus Name="a1uekv97" ID="{BC080294-FD41-47EE-9C28-0B20E312E107}">
+											<DuckingList>
+												<DuckItem>
+													<BusRef Name="alternative google bed bus" ID="{6CAFFC77-068E-41AE-B381-1A17D93875F8}" />
+													<DuckingParam>
+														<Volume>-6</Volume>
+														<FadeInTime>30</FadeInTime>
+														<FadeOutTime>50</FadeOutTime>
+														<FadeCurve>FadeLinear</FadeCurve>
+													</DuckingParam>
+												</DuckItem>
+											</DuckingList>
+										</Bus>
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="a0nwuqik" ID="{B40029E6-9E95-48B8-80C2-0CD7D3510000}">
+							<PropertyList>
+								<Property Name="MaxDuckVolume" Type="Real64" Value="-96.3" />
+							</PropertyList>
+							<ChildrenList>
+								<Bus Name="alternative google bed bus" ID="{6CAFFC77-068E-41AE-B381-1A17D93875F8}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-5.5</Value>
+											</ValueList>
+										</Property>
+										<Property Name="MaxDuckVolume" Type="Real64" Value="-96.3" />
+										<Property Name="Volume" Type="Real64">
+											<RTPCList>
+												<RTPC Name="" ID="{494426C1-2A7D-4141-8BFB-D90AD41ABF72}" ShortID="550313000">
+													<GameParameterRef Name="a0hz2tr8" ID="{BDEF9AB5-16DB-4FD5-B9EB-893345E8EE52}" />
+													<Curve Name="" ID="{EAE2AF02-76EA-4054-BCE6-46AA5C264EBB}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="1" />
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>0</YPos>
+																<Flags>5</Flags>
+																<SegmentShape>Constant</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>50</XPos>
+																<YPos>0</YPos>
+																<Flags>0</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>-0.292</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+									</PropertyList>
+								</Bus>
+								<Bus Name="cjlhqc_" ID="{6EB7E6A1-2134-41AA-AEAF-33B1A32152BA}">
+									<ChildrenList>
+										<AuxBus Name="interior" ID="{B030D557-AB8D-4C0C-B178-63BA48E8E3BE}" />
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+						</Bus>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}" />
+				<MotionBus Name="Master Motion Bus" ID="{20A630BA-3398-4676-B927-1004DFE41FD8}" />
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

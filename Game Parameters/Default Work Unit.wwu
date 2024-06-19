@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9FF69C33-D0A6-42E7-B730-8F0D19B5122A}" SchemaVersion="62">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{9FF69C33-D0A6-42E7-B730-8F0D19B5122A}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="voice_distance" ID="{47C655F6-6D02-4D91-B74F-97E9E51A01D2}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0" />
+						<Property Name="Max" Type="Real64" Value="1000" />
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="a2jo9p0" ID="{58C192E2-8FC5-4730-A851-55E2AC89DA4D}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0" />
+						<Property Name="Max" Type="Real64" Value="2" />
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="obstruction_rtpc" ID="{737CA980-40A8-490E-8714-3010422CD82D}" />
+				<GameParameter Name="rear_rtpc" ID="{C2648746-523E-4E0C-81EE-0583E14CA93D}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0" />
+						<Property Name="Max" Type="Real64" Value="200" />
+						<Property Name="Min" Type="Real64" Value="-100" />
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="a0hz2tr8" ID="{BDEF9AB5-16DB-4FD5-B9EB-893345E8EE52}" />
+				<GameParameter Name="a6lm6oo" ID="{5594CCA1-EE1E-40A2-8C6D-32E5E890118A}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="1" />
+						<Property Name="Max" Type="Real64" Value="1" />
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="occlusion_rtpc" ID="{B7C19CFB-6585-488C-AEB1-7F5139788A8C}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0" />
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CC692862-9489-43CF-A716-5594FE1BA5C9}" SchemaVersion="62">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{CC692862-9489-43CF-A716-5594FE1BA5C9}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="EF_Gntn_Speech_Delay" ID="{50698A3B-B0D3-4A2E-9AE6-81B287ECA0EE}" PluginName="Wwise Delay" CompanyID="0" PluginID="106">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="0.1" />
+						<Property Name="FeedbackEnabled" Type="bool" Value="False" />
+						<Property Name="ProcessLFE" Type="bool" Value="False" />
+						<Property Name="WetDryMix" Type="Real32" Value="100" />
+					</PropertyList>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

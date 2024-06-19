@@ -1,0 +1,10 @@
+# Wwise gitignore
+/.backup/*
+/.cache/*
+/GeneratedSoundBanks/
+/Originals/
+*.akd
+*.validationcache
+*.wsettings
+*.wav
+*.bnk
