@@ -3007,15 +3007,6 @@
 					<EntryList>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0020" ID="{2E5B11E1-4AEC-4E95-8E60-024BAD3507D7}" />
-								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
-							</Path>
-							<AudioNodeInfo>
-								<AudioNodeRef Name="PRSN1000_2t1410_0_powncc" ID="{058A45D6-418D-42D0-9911-A1F818D48037}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
-							</AudioNodeInfo>
-						</Entry>
-						<Entry>
-							<Path>
 								<PathElementRef Name="POWHGZ_0030_07" ID="{21CCF6CB-6EF6-4340-B21C-9C77A62447B9}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
 							</Path>

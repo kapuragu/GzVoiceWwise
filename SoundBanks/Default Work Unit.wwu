@@ -3,7 +3,7 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{DD119434-7F6E-4476-BA65-B21AF7B71F16}" PersistMode="Standalone">
 			<ChildrenList>
-				<Folder Name="vox_common" ID="{C527FB2C-C591-411E-83AF-D3DF05FEABB5}" ShortID="663991408">
+				<Folder Name="vox_gz_common" ID="{C527FB2C-C591-411E-83AF-D3DF05FEABB5}" ShortID="663991408">
 					<ChildrenList>
 						<SoundBank Name="vox_gz_common_ene" ID="{0C688F7F-36A1-4B98-8899-2361B72D844E}">
 							<ObjectInclusionList>
@@ -15,13 +15,13 @@
 						</SoundBank>
 						<SoundBank Name="vox_gz_common_rd" ID="{EB05EE5D-737C-44A3-927F-FF48CD6E5654}">
 							<ObjectInclusionList>
-								<ObjectRef Name="AM_Gntn_Radio_GO_Cmn" ID="{1943BE55-1275-484B-A578-F07ED7DB267E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="6" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Radio_GO_Cmn" ID="{1943BE55-1275-484B-A578-F07ED7DB267E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="DD_ESR" ID="{C63DD086-C352-4696-845F-670A9697E8F1}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="DD_OPR" ID="{5C74FC89-63D4-40E5-8375-BECC1AB765D0}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="DD_RTR" ID="{F66D358E-9D66-483B-909E-C8F94BA67002}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="DD_gameover" ID="{03151BB1-0851-40A8-8C7C-DD7140540B09}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
-								<ObjectRef Name="AM_Gntn_Radio_RS_Cmn" ID="{57B8FEBA-C09F-4B55-84C7-0AB5A519F02B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="6" Origin="Manual" />
-								<ObjectRef Name="AM_Gntn_Radio_RT_Cmn" ID="{5A616EFB-94F0-435F-89F2-E50660752641}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="6" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Radio_RS_Cmn" ID="{57B8FEBA-C09F-4B55-84C7-0AB5A519F02B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Radio_RT_Cmn" ID="{5A616EFB-94F0-435F-89F2-E50660752641}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
