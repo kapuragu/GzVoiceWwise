@@ -10589,6 +10589,123 @@
 								<AudioNodeRef Name="RDPS2000_111011_0_miller" ID="{A842581F-B6AA-4108-B8D1-F4CB030108BD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2l3011" ID="{92CEAF71-20B9-4D48-8D3F-5159584D5D07}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2l3011_0_miller" ID="{7AEB9AA7-E4D7-4276-B262-BAA96E868670}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2a1h11" ID="{3E83F7AC-B317-4841-A002-12ED0ADD724C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2a1h11_0_miller" ID="{4127403C-1329-4669-B1F0-F8B81E7E9F75}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_251212" ID="{BF086694-74AD-40B1-933B-F212BC110661}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_251212_0_miller" ID="{D53D8138-D653-40D1-A617-08EAAAC3D0CD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_252011" ID="{4A798B6F-FD0E-49B2-B2C7-5D1FAF8D02B1}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_252011_0_miller" ID="{9DD9F59A-A25F-4854-9BA8-1446E4DC1348}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_255011" ID="{5E72E018-06AC-4D0C-B6E1-06AD4D34472B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_255011_0_miller" ID="{203F5114-E0F9-4F2A-AA51-86BEE8F3979A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_272711" ID="{387093FF-B96E-4081-BD7A-64B709CDDB82}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_272711_0_miller" ID="{FE3A87ED-7F2B-45BC-8DB3-BA000CEB249F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2c1911" ID="{147B2B95-C502-40A3-B3AF-98443CEEF34F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2c1911_0_miller" ID="{D58D35C0-5B66-414A-A725-341642F5D500}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2k1d11" ID="{F33488FF-24C3-4CE9-B3C6-1E17955AA8ED}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2k1d11_0_miller" ID="{6BE650E5-9AB9-4874-A76B-4B72439097CF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2q3011" ID="{30939CF5-9E35-4890-9821-5894B21E4055}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2q3011_0_miller" ID="{D28921F8-D582-478A-81F8-0A7541EFC05F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1110_111011" ID="{D7D0443A-DBDB-464B-9489-DA45AE176C43}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1110_111011_0_miller" ID="{CB5EAB8C-984F-408D-A75E-1123326A9499}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="HASL1000_1z1511" ID="{402DAE2A-A166-4A08-9EE7-28A3FD6C0521}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HASL1000_1z1511_0_miller" ID="{55CEC0EB-0AC0-4CCB-AFAB-5B425F812F8F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="PPRG1001_2r1011" ID="{C5B71E15-9B28-4DED-BCEE-433DBF424A85}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG1001_2r1011_0_miller" ID="{129D6C16-6A9B-43F7-B187-9F9108332A16}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="RDPS2000_101211" ID="{5BD09E79-DB3A-4610-90FC-D054AECA3D50}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RDPS2000_101211_0_miller" ID="{83D253C1-C1F0-4E52-8137-D7A98CC4BDC1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_OPR" ID="{5C74FC89-63D4-40E5-8375-BECC1AB765D0}">
@@ -11369,6 +11486,15 @@
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="INTL3000_1n1010_0_miller" ID="{4E130EC3-DC08-4A1F-8B7E-6F4E0DFF1F3C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="MGRG3000_1h1011" ID="{464ADA14-C398-4930-8B08-E3F2631D122A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="MGRG3000_1h1011_0_miller" ID="{AE54E600-15ED-41B4-8B48-5B969868F73A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
 					</EntryList>
@@ -12683,6 +12809,7 @@
 						</Entry>
 					</EntryList>
 				</DialogueEvent>
+				<DialogueEvent Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}" />
 			</ChildrenList>
 		</WorkUnit>
 	</DynamicDialogue>
