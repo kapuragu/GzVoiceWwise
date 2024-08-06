@@ -10706,6 +10706,15 @@
 								<AudioNodeRef Name="RDPS2000_101211_0_miller" ID="{83D253C1-C1F0-4E52-8137-D7A98CC4BDC1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="COMR1000_2a1e11" ID="{1771BA70-0054-4000-B96D-CBE52134A529}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="COMR1000_2a1e11_0_miller" ID="{00C90A3D-7102-45BD-AE49-29ADD2B5C271}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_OPR" ID="{5C74FC89-63D4-40E5-8375-BECC1AB765D0}">
