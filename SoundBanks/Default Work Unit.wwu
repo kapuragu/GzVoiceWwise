@@ -1559,6 +1559,7 @@
 								<ObjectRef Name="MGS11000_1e1010_0_miller" ID="{E9EBDF20-C484-43BF-8260-130FAB1A89B0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="azgzoeg" ID="{67520633-E4DB-4B9A-8979-D7F258115846}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="DD_RTR" ID="{F66D358E-9D66-483B-909E-C8F94BA67002}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="RDPS1000_121112_0_miller" ID="{2B9560B1-C7F1-4F38-B335-8F562B69E0ED}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
