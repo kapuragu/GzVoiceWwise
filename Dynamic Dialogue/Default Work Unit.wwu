@@ -3001,14 +3001,14 @@
 				</DialogueEvent>
 				<DialogueEvent Name="DD_hostage_gz" ID="{53B4CF66-4453-4958-9410-B3AF36626275}">
 					<ArgumentList>
-						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
 						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
 					</ArgumentList>
 					<EntryList>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_07" ID="{21CCF6CB-6EF6-4340-B21C-9C77A62447B9}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_07" ID="{21CCF6CB-6EF6-4340-B21C-9C77A62447B9}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3e1010_0_powncc" ID="{0550ECD5-7A6B-4EBD-AF4F-76095FB31727}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3016,8 +3016,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_06" ID="{A919BF8E-0567-4C95-82A4-957542D6E983}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_06" ID="{A919BF8E-0567-4C95-82A4-957542D6E983}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3d1010_0_powncc" ID="{C36CF078-BB42-40D7-B1AC-CD7025FA2B14}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3025,8 +3025,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_10" ID="{5BF7000B-9535-4E45-A09B-51F9E6D42CD9}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_10" ID="{5BF7000B-9535-4E45-A09B-51F9E6D42CD9}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3h1010_0_powncc" ID="{D5E50F0E-CA48-4B60-B389-672DD4EC3439}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3034,8 +3034,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_16" ID="{74F42E00-0F58-4B51-903C-25D36F910CDE}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_16" ID="{74F42E00-0F58-4B51-903C-25D36F910CDE}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3n1010_0_powncc" ID="{E66AEC56-4C14-4F0B-8C90-107CF4A31CAD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3043,8 +3043,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_03" ID="{5F78DB63-9C17-43FD-A40D-BBA6A0C888D2}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_03" ID="{5F78DB63-9C17-43FD-A40D-BBA6A0C888D2}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3a1010_0_powncc" ID="{151FFBE4-083B-4E8D-B6A4-3413AA3AFAB0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3052,8 +3052,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_01" ID="{CD99CD6A-D76A-43E8-A76F-57661919446E}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_01" ID="{CD99CD6A-D76A-43E8-A76F-57661919446E}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_381010_0_powncc" ID="{52FB50C5-68AF-44FC-9AE3-1A2AE8A8A0C2}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3061,8 +3061,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_02" ID="{6DA09869-C6B7-412E-835F-A7C9450A338C}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_02" ID="{6DA09869-C6B7-412E-835F-A7C9450A338C}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_391010_0_powncc" ID="{77B505DE-DC7F-4A1C-A0EF-8D59A3FBA1A1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3070,8 +3070,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_05" ID="{A09A9A15-5370-4099-98E9-74AA1A521F09}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_05" ID="{A09A9A15-5370-4099-98E9-74AA1A521F09}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3c1010_0_powncc" ID="{F5B94927-2CD7-4791-8AE1-D04806D4B32D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3079,8 +3079,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_04" ID="{A5E2594B-CEC7-4BFA-BEF6-8BD3C3E648FC}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_04" ID="{A5E2594B-CEC7-4BFA-BEF6-8BD3C3E648FC}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3b1010_0_powncc" ID="{EBCDCE3F-2C4C-423D-BEC1-F3D2EBEDF041}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3088,8 +3088,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_09" ID="{39695A3D-5FC8-4968-83AC-3B416C011F97}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_09" ID="{39695A3D-5FC8-4968-83AC-3B416C011F97}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3g1010_0_powncc" ID="{802ED9F9-140C-476A-8DA2-2440714379A7}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3097,8 +3097,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_08" ID="{1F138523-4B15-4EEB-B605-DE4348BCF126}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_08" ID="{1F138523-4B15-4EEB-B605-DE4348BCF126}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3f1010_0_powncc" ID="{F197F232-FF87-4682-9687-1CE488340B47}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3106,8 +3106,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_11" ID="{57A1FE94-4A01-48E2-B4B1-5B87B18071C8}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_11" ID="{57A1FE94-4A01-48E2-B4B1-5B87B18071C8}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3i1010_0_powncc" ID="{276C2ED8-777D-4C75-8ADB-DF0541D298DD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3115,8 +3115,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_14" ID="{5EE9CCF0-676D-40A4-A568-A73A2AD14A71}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_14" ID="{5EE9CCF0-676D-40A4-A568-A73A2AD14A71}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3l1010_0_powncc" ID="{537D9B1A-934E-4C16-9B88-1B5CBCB34BF5}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3124,8 +3124,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_15" ID="{2A8B0EB4-A049-4408-B5E0-22884B86B0C9}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_15" ID="{2A8B0EB4-A049-4408-B5E0-22884B86B0C9}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3m1010_0_powncc" ID="{B72E8EB7-A66C-4448-ACE2-2CF02075BF07}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3133,8 +3133,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_13" ID="{F59AD20B-BB1B-428A-8A8B-557276EE4A32}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_13" ID="{F59AD20B-BB1B-428A-8A8B-557276EE4A32}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3k1010_0_powncc" ID="{92DE08FF-3250-417C-8E08-FA1986C4921F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
@@ -3142,8 +3142,8 @@
 						</Entry>
 						<Entry>
 							<Path>
-								<PathElementRef Name="POWHGZ_0030_12" ID="{64F369C9-889B-4078-B6D1-506F7E042A22}" />
 								<PathElementRef Name="hostage_c" ID="{5A48F46E-4D11-4D89-81E6-427CF67DE6B6}" />
+								<PathElementRef Name="POWHGZ_0030_12" ID="{64F369C9-889B-4078-B6D1-506F7E042A22}" />
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PRSN1000_3j1010_0_powncc" ID="{BB5CDF45-9D19-403D-AB09-748EBD8F9D89}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />

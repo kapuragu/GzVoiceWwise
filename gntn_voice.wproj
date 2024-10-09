@@ -8581,6 +8581,7 @@
 			</SharedValues>
 			<UsedLanguageList>
 				<Language VolumeOffset="0">English(US)</Language>
+				<Language VolumeOffset="0">Japanese</Language>
 			</UsedLanguageList>
 			<EnvironmentalSettings>
 				<ObsOccCurves>

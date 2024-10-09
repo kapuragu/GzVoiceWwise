@@ -1572,13 +1572,9 @@
 							<ObjectInclusionList>
 								<ObjectRef Name="DD_vox_ene_conversation_gz" ID="{F1994D00-58E8-4CC5-980D-851A44188A59}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6m1010_0_enec" ID="{8C8E7402-76D7-4EAF-B550-BFD1C1ACAA04}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4t1010_0_enec" ID="{A8CA5C03-AB36-44FC-BDB9-1EF11CC69869}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_631010_0_enea" ID="{67945705-F535-4E14-BED9-FC31F023BDE3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4w1010_0_enec" ID="{2BCCC105-4110-452B-9D80-5C03C5B73450}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_611010_0_enea" ID="{08304106-42E0-4423-80C8-E5C41A031677}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6c1010_0_enea" ID="{847CF419-A6D7-4062-A79E-991DE466CF91}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_501010_0_ened" ID="{BB45771A-1A42-4B87-8B9A-FF02D2543240}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4v1010_0_enec" ID="{CF96CB1D-937C-4BEC-ABEA-60314D8D8300}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6l1010_0_enea" ID="{7CA36124-EA38-4373-83AD-59A2F9103AB9}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6j1010_0_enea" ID="{5A845A2F-0B3D-4884-A5DE-60CB57806596}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6a1010_0_enec" ID="{1A680930-D4F7-408D-873F-29D51CE7321F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
@@ -1586,9 +1582,7 @@
 								<ObjectRef Name="SLTB0z10_691010_0_enea" ID="{044A6255-E811-4008-8148-22D9E54CCF35}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_651010_0_enea" ID="{B0BC2461-2AC5-4183-A0AA-C2E5FC292F5E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_641010_0_enec" ID="{DA670C67-B1E2-479A-ADB2-4B9CD95A3970}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4z1010_0_enec" ID="{88700B69-7397-4FB3-85D5-79D37F666E06}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_5z1010_0_enea" ID="{CF0ADA6C-DCEC-4F22-BA50-53E4E7EDA194}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4y1010_0_enec" ID="{7DE7D774-063A-44CD-A3EA-9867E49995CB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6e1010_0_enea" ID="{95C6D77D-DEF5-487D-9802-B7AE24A22C46}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6i1010_0_enea" ID="{067F3B8D-925D-4CBA-A80A-76F13E0D7C6F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6d1010_0_enec" ID="{21D18D8E-2CAC-4241-8CF1-5C758AD506DF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
@@ -1596,17 +1590,81 @@
 								<ObjectRef Name="SLTB0z10_6h1010_0_enec" ID="{04061F9F-69D9-4161-9830-C910EEDC1B0C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_661010_0_enec" ID="{CF61D5A4-3D93-46B9-8D12-CC201FFD98F3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_601010_0_enec" ID="{1561D2A9-A966-4894-9AAB-E991BCE314A6}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4q1010_0_enea" ID="{73FCFFB1-5EE9-4671-9612-89D4EFE77791}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6f1010_0_enec" ID="{D527C3C9-3D25-4BDB-BEE8-029F3052B73D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6b1010_0_enea" ID="{53CF0DCD-F523-466E-94D5-7CAF0F8D623E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6k1010_0_enec" ID="{199808D7-4A11-484B-8F75-63FA8BA707B0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4u1010_0_enea" ID="{5F60BFDC-DFD0-4D18-8A3F-EA13758FB106}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6g1010_0_enea" ID="{E72909E4-B11D-4A58-82BA-F55443458657}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
-								<ObjectRef Name="SLTB0z10_4x1010_0_ened" ID="{F80AA2E4-95E9-4561-AA82-AFD7A6F56366}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_671010_0_enea" ID="{52DCF1E4-0821-47B2-8B22-E52AE7AED869}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_6n1010_0_enea" ID="{12E988F6-0684-41F0-80FD-42566075E178}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+						<SoundBank Name="vox_gntn_quest_q01" ID="{4A43A429-D24A-4880-84BF-B056ED0F9B61}">
+							<ObjectInclusionList>
+								<ObjectRef Name="DD_vox_ene_conversation_gz" ID="{F1994D00-58E8-4CC5-980D-851A44188A59}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4t1010_0_enec" ID="{A8CA5C03-AB36-44FC-BDB9-1EF11CC69869}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4w1010_0_enec" ID="{2BCCC105-4110-452B-9D80-5C03C5B73450}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_501010_0_ened" ID="{BB45771A-1A42-4B87-8B9A-FF02D2543240}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4v1010_0_enec" ID="{CF96CB1D-937C-4BEC-ABEA-60314D8D8300}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4z1010_0_enec" ID="{88700B69-7397-4FB3-85D5-79D37F666E06}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4y1010_0_enec" ID="{7DE7D774-063A-44CD-A3EA-9867E49995CB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4q1010_0_enea" ID="{73FCFFB1-5EE9-4671-9612-89D4EFE77791}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4u1010_0_enea" ID="{5F60BFDC-DFD0-4D18-8A3F-EA13758FB106}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_4x1010_0_ened" ID="{F80AA2E4-95E9-4561-AA82-AFD7A6F56366}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_4s1010_0_enea" ID="{C5C01EF7-0393-40DF-AB22-F82B020760DE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 								<ObjectRef Name="SLTB0z10_4r1010_0_enec" ID="{8FB81BFB-3248-4F88-98A2-0B044F8EDE53}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+						<SoundBank Name="vox_gntn_quest_q08" ID="{B07D609E-46DB-4778-B915-65348D6DFD68}">
+							<ObjectInclusionList>
+								<ObjectRef Name="DD_vox_ene_conversation_gz" ID="{F1994D00-58E8-4CC5-980D-851A44188A59}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1210_0_ened" ID="{F893DE0B-2D48-44DC-910C-F05B5CCDDDDB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1510_0_enec" ID="{0C5DCD1B-B394-4C75-B781-205E6C004203}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_271210_0_enea" ID="{5EE31724-BA00-4193-A9C2-3FC8B5D3817B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_271010_0_enea" ID="{47A2342C-47BC-4EF0-9525-778724BFC86F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1010_0_ened" ID="{3AE3812D-106A-4529-8278-C15D85AF6FCA}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_2b1010_0_ened" ID="{A2B4A93B-22F9-4E9B-B618-93163BEC6152}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1410_0_ened" ID="{07832B75-8A7A-42F1-AC0A-B721D5C18C70}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_241010_0_ened" ID="{38BB107D-8BDD-47E9-B2CE-6F6447909264}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1310_0_ened" ID="{69362897-0F87-4880-BD5A-07C74206B111}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_281010_0_enec" ID="{0E3E92AB-86B3-40D3-98A7-604454A56872}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1110_0_ened" ID="{412990AE-AD9B-4832-A632-676C8D3A9C8B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_291110_0_enec" ID="{018052B1-9623-44FC-944A-3FDE2CCABDF0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_2a1010_0_enec" ID="{80BCB9B4-E164-483B-9063-29EE470D5E84}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_221110_0_ened" ID="{8F12C8B6-AC36-4A52-99E5-B28C3C4B3B5C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_271310_0_ened" ID="{FA61A5C2-CB6A-4140-9B4F-601512BC00C0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_2c1010_0_enec" ID="{790E53CD-A421-481B-A045-AE10F04356FE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_291010_0_ened" ID="{E1EBC9DE-728D-480F-ABA3-5D266D6EF275}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_271110_0_ened" ID="{67B1F8ED-D133-40FA-B8B5-6309523213D3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_291210_0_ened" ID="{546B06EF-3537-4A27-BC3E-02931BD0A104}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1y1610_0_enec" ID="{1EF1B5F6-EF17-4419-9A9D-C3FF95EAE65D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_231010_0_enea" ID="{8B3502FF-0285-46D4-A1C7-E392592936C8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+						<SoundBank Name="vox_gntn_quest_q03" ID="{B2D1BC4B-A372-439D-BB28-33CCAFEEDE1D}">
+							<ObjectInclusionList>
+								<ObjectRef Name="PRSN1000_3h1010_0_powncc" ID="{D5E50F0E-CA48-4B60-B389-672DD4EC3439}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3l1010_0_powncc" ID="{537D9B1A-934E-4C16-9B88-1B5CBCB34BF5}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3c1010_0_powncc" ID="{F5B94927-2CD7-4791-8AE1-D04806D4B32D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3f1010_0_powncc" ID="{F197F232-FF87-4682-9687-1CE488340B47}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3b1010_0_powncc" ID="{EBCDCE3F-2C4C-423D-BEC1-F3D2EBEDF041}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3j1010_0_powncc" ID="{BB5CDF45-9D19-403D-AB09-748EBD8F9D89}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3n1010_0_powncc" ID="{E66AEC56-4C14-4F0B-8C90-107CF4A31CAD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="DD_hostage_gz" ID="{53B4CF66-4453-4958-9410-B3AF36626275}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3d1010_0_powncc" ID="{C36CF078-BB42-40D7-B1AC-CD7025FA2B14}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3m1010_0_powncc" ID="{B72E8EB7-A66C-4448-ACE2-2CF02075BF07}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_381010_0_powncc" ID="{52FB50C5-68AF-44FC-9AE3-1A2AE8A8A0C2}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3e1010_0_powncc" ID="{0550ECD5-7A6B-4EBD-AF4F-76095FB31727}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3i1010_0_powncc" ID="{276C2ED8-777D-4C75-8ADB-DF0541D298DD}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_391010_0_powncc" ID="{77B505DE-DC7F-4A1C-A0EF-8D59A3FBA1A1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3a1010_0_powncc" ID="{151FFBE4-083B-4E8D-B6A4-3413AA3AFAB0}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3g1010_0_powncc" ID="{802ED9F9-140C-476A-8DA2-2440714379A7}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="PRSN1000_3k1010_0_powncc" ID="{92DE08FF-3250-417C-8E08-FA1986C4921F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
