@@ -1669,6 +1669,23 @@
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
 						</SoundBank>
+						<SoundBank Name="vox_gntn_quest_q00" ID="{BBF023E2-39B2-475C-BD88-A39E9408E28F}">
+							<ObjectInclusionList>
+								<ObjectRef Name="DD_vox_ene_conversation_gz" ID="{F1994D00-58E8-4CC5-980D-851A44188A59}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1j1110_0_eneb" ID="{52C4D42E-3C4F-45BF-8AAA-79020E7A052B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_2d1010_0_enea" ID="{3A9C9F35-8E46-4086-8771-844D4DE6A4B3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_2c1010_0_enec" ID="{6E941736-FB1C-4859-8F74-EEAA571A619E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_2a1010_0_enec" ID="{304C743A-14E4-495E-AF60-777F645850E1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1j1510_0_enea" ID="{0343EC73-A86C-401D-A219-C7A6D40C3FCF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_291010_0_enea" ID="{6052538B-0D03-41D2-8608-E10B3E4F5258}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1j1210_0_ened" ID="{5A3E59B0-8F56-4523-9A89-1EE8117A8E9E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1j1310_0_enec" ID="{D46365C9-258F-4AD3-92EC-AA6414818EA9}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z00_1j1410_0_enec" ID="{87EF0BF5-E9E8-4E50-B0BD-166A0036F440}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="SLTB0z10_2b1010_0_enea" ID="{47E824FF-05EE-409E-9816-88A0EE463EE9}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
 					</ChildrenList>
 				</Folder>
 			</ChildrenList>
