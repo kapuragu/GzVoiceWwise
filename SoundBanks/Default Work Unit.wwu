@@ -384,6 +384,14 @@
 								<GameSyncRef Name="CTE0030_etc002" ID="{ECDE09FF-85BE-487A-8B13-D78AD06489EF}" WorkUnitID="{025BB973-9202-473A-A40A-B3358A28773A}" Origin="Manual" />
 							</GameSyncExclusionList>
 						</SoundBank>
+						<SoundBank Name="vox_e20010_tape" ID="{3FC98494-ED3C-493E-82D9-C0775DB0F301}">
+							<ObjectInclusionList>
+								<ObjectRef Name="DD_e0010_tape" ID="{A0893E6E-268A-431C-BB78-E65BA6CDB09F}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="5" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Radio_RT_e0010_Tape" ID="{3158C782-C027-48CC-BB4E-3D7019E08A38}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="6" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
 					</ChildrenList>
 				</Folder>
 				<Folder Name="vox_e20020" ID="{069C56C8-45C5-4576-83C7-FB049E11067B}" ShortID="71483647">

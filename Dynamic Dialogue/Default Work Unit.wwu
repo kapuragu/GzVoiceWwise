@@ -12828,6 +12828,77 @@
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}" />
+				<DialogueEvent Name="DD_e0010_tape" ID="{A0893E6E-268A-431C-BB78-E65BA6CDB09F}">
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0001" ID="{C96621B3-F8C2-4135-9CF3-1F5E356F2A64}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0001" ID="{D3FA3310-A82B-4E56-8ED3-30EDDB6B0396}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0002" ID="{FFEC1D15-6942-4E92-AF70-6911032DE2D3}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0002" ID="{F093F6D5-E939-4D7F-8D43-1D302C6400EC}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0000" ID="{2AE21180-C3CE-422B-9160-B785251DEF0F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0000" ID="{E26FA4A0-3F5F-46EF-A12C-B424F847F4A5}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0005" ID="{04AA863F-5AF4-47DC-ABA6-ABA01559280E}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0005" ID="{243FE95B-2ECC-426B-A3D0-675D54A8CC12}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0004" ID="{ECB3FBAF-E252-43A6-B011-958B09B42D29}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0004" ID="{5F267444-E8DC-46C4-ADB8-0A38831C365D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0003" ID="{DDDA1AFA-EC10-4772-BF08-85E77CC96617}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0003" ID="{E984184E-B9EC-4317-B49E-1227C4398515}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="tp_chico_00_03_0006" ID="{666B4585-948E-49A3-8A7E-FBFC878BC488}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="tp_chico_00_03_0006" ID="{B50D025E-595D-4FC2-8F02-EB1C147F85DE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
 			</ChildrenList>
 		</WorkUnit>
 	</DynamicDialogue>
