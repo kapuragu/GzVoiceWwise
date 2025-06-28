@@ -61,6 +61,7 @@
 						<State Name="INTELMEM" ID="{4F504242-313C-4009-927A-66C0FCE79CDC}" />
 						<State Name="HIDEO" ID="{DE1FDAC6-4011-412D-9353-07A7A8C83F02}" />
 						<State Name="SNAK" ID="{327DF08E-4085-4833-8D19-308871C902E6}" />
+						<State Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}">
@@ -1475,6 +1476,44 @@
 						<State Name="tp_chico_00_03_0004" ID="{ECB3FBAF-E252-43A6-B011-958B09B42D29}" />
 						<State Name="tp_chico_00_03_0005" ID="{04AA863F-5AF4-47DC-ABA6-ABA01559280E}" />
 						<State Name="tp_chico_00_03_0006" ID="{666B4585-948E-49A3-8A7E-FBFC878BC488}" />
+						<State Name="shot_sleep01" ID="{9760734F-B37C-491D-BBAE-6A698F525967}">
+							<Comment>1236742472</Comment>
+						</State>
+						<State Name="shot_sleep02" ID="{404F29F0-41BB-49F5-925F-50662C743664}">
+							<Comment>1236742475</Comment>
+						</State>
+						<State Name="sleep_breath_in" ID="{CE284043-2DD6-4A42-ABC0-4BB85AF9DF8B}">
+							<Comment>1693058759</Comment>
+						</State>
+						<State Name="curry_breath_in" ID="{3BEE7362-C644-47F3-B32B-DC70E0A34BBE}">
+							<Comment>4214132883</Comment>
+						</State>
+						<State Name="curry_breath_out" ID="{3E64DDFD-64F8-4795-9C6C-BDE136E84A3F}">
+							<Comment>4131394734</Comment>
+						</State>
+						<State Name="picked_up01" ID="{E5AC993E-AAD8-42CE-AFA5-DAD1AE8E7B8A}" />
+						<State Name="picked_up02" ID="{C37E35B0-214E-461F-A8EB-D1DDD9C307AF}" />
+						<State Name="put_down" ID="{2C7B51B9-32B1-41C8-9990-471CAD779C5B}" />
+						<State Name="awake01" ID="{12D66777-DA7C-48BA-BCCA-974A5254BF36}" />
+						<State Name="awake02" ID="{AC9273A3-9010-4676-B76C-5C1EA07FD0FC}" />
+						<State Name="sit_breath02" ID="{EDB3AE5E-1DE0-43D2-9C3A-748B396CDE24}" />
+						<State Name="cough_01" ID="{F1ED0585-0C55-4071-AC74-BA2C8D76956C}">
+							<Comment>1798412533</Comment>
+						</State>
+						<State Name="cough_02" ID="{586890CC-F75F-43D0-999F-2667A916E991}">
+							<Comment>1798412534</Comment>
+						</State>
+						<State Name="chc0250" ID="{BA541C15-2438-476D-AC30-65628CBCC2EE}">
+							<Comment>863280086</Comment>
+						</State>
+						<State Name="chc0220" ID="{F6CC4B62-1DD0-4529-99C6-D1C6876A30B6}" />
+						<State Name="chc0230" ID="{26641B7B-3BCC-45F5-9EE0-A6D7A5BB422C}" />
+						<State Name="chc0240" ID="{2A46D46A-B5A7-486D-A5BA-885C2DC007FC}" />
+						<State Name="chc0260" ID="{740EB08A-21E8-462D-A9CE-1BD5276B769B}" />
+						<State Name="chc0270" ID="{7B5FC6EF-992A-4CFA-89EC-FA057FB448E6}">
+							<Comment>829724912</Comment>
+						</State>
+						<State Name="chc0280" ID="{73E27EF9-5EC5-4B24-BED0-ED062023B58F}" />
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="a0ej00mu" ID="{78141C11-7772-4887-97AD-D1AB2BCF7411}">

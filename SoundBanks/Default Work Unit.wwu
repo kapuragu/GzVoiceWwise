@@ -70,6 +70,7 @@
 						<SoundBank Name="vox_chico" ID="{5AE85F85-83B0-4AFD-AF2E-B7A2D1FA673D}">
 							<ObjectInclusionList>
 								<ObjectRef Name="AM_Gntn_Chico" ID="{39CE903C-3E71-4FD2-A011-9471CDE5A17E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="pl0y7ori7" ID="{335DC67A-59D0-4BBF-AAF3-F0A2DFAEF047}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="DD_Chico" ID="{B43814E4-9681-4533-BDF3-F238BAC5D941}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
 								<ObjectRef Name="AM_Gntn_Chico_Carry" ID="{CBD85DFF-27D1-4E81-9E3B-F2DA51AC8799}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 							</ObjectInclusionList>
@@ -386,8 +387,16 @@
 						</SoundBank>
 						<SoundBank Name="vox_e20010_tape" ID="{3FC98494-ED3C-493E-82D9-C0775DB0F301}">
 							<ObjectInclusionList>
-								<ObjectRef Name="DD_e0010_tape" ID="{A0893E6E-268A-431C-BB78-E65BA6CDB09F}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="5" Origin="Manual" />
-								<ObjectRef Name="AM_Gntn_Radio_RT_e0010_Tape" ID="{3158C782-C027-48CC-BB4E-3D7019E08A38}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="6" Origin="Manual" />
+								<ObjectRef Name="DD_e0010_tape" ID="{A0893E6E-268A-431C-BB78-E65BA6CDB09F}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Radio_RT_e0010_Tape" ID="{3158C782-C027-48CC-BB4E-3D7019E08A38}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+						<SoundBank Name="vox_paz_gz" ID="{3006B8D6-5F79-43E3-A53F-B5EAEC22596B}">
+							<ObjectInclusionList>
+								<ObjectRef Name="afv5_9f" ID="{A6FD9417-40FA-46AE-B5A9-C88DDAAF45F3}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
+								<ObjectRef Name="AM_Gntn_Paz" ID="{4F0E5D54-9ECE-4681-9ADC-A0D6D341D4AC}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />

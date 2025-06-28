@@ -3152,6 +3152,7 @@
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_Chico" ID="{B43814E4-9681-4533-BDF3-F238BAC5D941}">
+					<Comment>1956911496</Comment>
 					<ArgumentList>
 						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
 						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
@@ -3443,6 +3444,69 @@
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="IGPS3000_101010_0_chico" ID="{91AC2CA5-2396-4C7E-8156-A236D11F3D26}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0250" ID="{BA541C15-2438-476D-AC30-65628CBCC2EE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="chc0250" ID="{10CBF952-6228-4CF0-BBB0-08267905646C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0220" ID="{F6CC4B62-1DD0-4529-99C6-D1C6876A30B6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2e1010_0_chico" ID="{49A474E2-B604-4006-A06B-2EB02A744F57}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0230" ID="{26641B7B-3BCC-45F5-9EE0-A6D7A5BB422C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2f1010_0_chico" ID="{8B375042-9535-4CC8-A150-D7C368506EA8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0240" ID="{2A46D46A-B5A7-486D-A5BA-885C2DC007FC}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2g1010_0_chico" ID="{F308E650-6D38-4867-B65E-0F9DA787881D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0260" ID="{740EB08A-21E8-462D-A9CE-1BD5276B769B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2i1010_0_chico" ID="{0FF8271B-1E72-4EC2-9E8B-F89BCED3AC2A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0270" ID="{7B5FC6EF-992A-4CFA-89EC-FA057FB448E6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2j1010_0_chico" ID="{14C99556-328C-480F-85CB-DC14ED20F8C9}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="chc0280" ID="{73E27EF9-5EC5-4B24-BED0-ED062023B58F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2k1010_0_chico" ID="{69E060DB-610F-44C6-8643-A82739C37279}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
 					</EntryList>
@@ -12895,6 +12959,168 @@
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="tp_chico_00_03_0006" ID="{B50D025E-595D-4FC2-8F02-EB1C147F85DE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+				<DialogueEvent Name="afv5_9f" ID="{A6FD9417-40FA-46AE-B5A9-C88DDAAF45F3}">
+					<Comment>3928337159</Comment>
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="shot_sleep01" ID="{9760734F-B37C-491D-BBAE-6A698F525967}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_1o1010_0_paz_shot_sleep01" ID="{F7B88522-E054-4F75-869A-A131BDD2932D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="shot_sleep02" ID="{404F29F0-41BB-49F5-925F-50662C743664}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_1o1010_0_paz_shot_sleep02" ID="{0D40499D-37EA-4849-91A6-E1F1276DFB6D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="sleep_breath_in" ID="{CE284043-2DD6-4A42-ABC0-4BB85AF9DF8B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_1p1010_0_paz_sleep_breath_in" ID="{D3BEBF02-1B01-4EDC-B591-70F0CF1E2114}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="curry_breath_in" ID="{3BEE7362-C644-47F3-B32B-DC70E0A34BBE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_1r1110_0_paz_curry_breath_in" ID="{03F70F7C-8EE6-486D-A011-7D0584042E4F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="curry_breath_out" ID="{3E64DDFD-64F8-4795-9C6C-BDE136E84A3F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_1r1110_0_paz_curry_breath_out" ID="{53D5197E-6046-4318-93A0-A075CC0E6919}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="picked_up01" ID="{E5AC993E-AAD8-42CE-AFA5-DAD1AE8E7B8A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_111010_0_paz_picked_up01" ID="{497ADDCC-385B-4930-9543-9B2950CFB2D1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="picked_up02" ID="{C37E35B0-214E-461F-A8EB-D1DDD9C307AF}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_111010_0_paz_picked_up02" ID="{7C7E338F-0CAB-4F10-A276-51AA03202797}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+								<PathElementRef Name="put_down" ID="{2C7B51B9-32B1-41C8-9990-471CAD779C5B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_131010_0_paz_put_down" ID="{2209C803-AF2C-47E8-90AD-FE552A049ADE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+				<DialogueEvent Name="pl0y7ori7" ID="{335DC67A-59D0-4BBF-AAF3-F0A2DFAEF047}">
+					<Comment>2363612544</Comment>
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="picked_up01" ID="{E5AC993E-AAD8-42CE-AFA5-DAD1AE8E7B8A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2b1010_0_chico_picked_up01" ID="{173EF89B-E4DC-4CCE-8012-776EDC24FFE8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="put_down" ID="{2C7B51B9-32B1-41C8-9990-471CAD779C5B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2d1010_0_chico_put_down" ID="{D279FE41-9106-4847-83C7-94C02116BC9D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="cough_01" ID="{F1ED0585-0C55-4071-AC74-BA2C8D76956C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2l1010_0_chico_cough01" ID="{860C321D-ACDE-4746-BEDA-FCAE46928F22}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="cough_02" ID="{586890CC-F75F-43D0-999F-2667A916E991}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2l1010_0_chico_cough02" ID="{A4DC39A9-42BA-4940-9C3C-8C266A208A79}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="sleep_breath_in" ID="{CE284043-2DD6-4A42-ABC0-4BB85AF9DF8B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2n1010_0_chico_sleep_breath_in" ID="{222068D3-BD7C-4BCD-A863-1D92384086C8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="awake02" ID="{AC9273A3-9010-4676-B76C-5C1EA07FD0FC}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2q1010_0_chico_awake02" ID="{C0232F57-A081-48EC-B4B6-9294946861FF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="awake01" ID="{12D66777-DA7C-48BA-BCCA-974A5254BF36}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_2q1010_0_chico_awake01" ID="{BA07528E-62A1-4E44-9CE0-25A952075B2A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="chico" ID="{5B66D5DE-0D71-4187-A98A-C69602DDAFA5}" />
+								<PathElementRef Name="sit_breath02" ID="{EDB3AE5E-1DE0-43D2-9C3A-748B396CDE24}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PPRG7000_281010_0_chico_sit_breath02" ID="{9B08AEA6-FB39-438F-B4B2-63E668216FC4}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
 					</EntryList>
