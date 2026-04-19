@@ -5497,6 +5497,51 @@
 								<AudioNodeRef Name="COMR1110_111011_0_miller" ID="{CB5EAB8C-984F-408D-A75E-1123326A9499}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV2000_101010" ID="{93B51465-350A-4E7A-A505-5F862DAFE082}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV2000_101010_0_miller" ID="{8A6E730C-9231-4B53-9A96-9C997202CB8B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV2000_131010" ID="{195DDFB5-6FB9-4BB4-ACB1-6E32DD27ED85}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV2000_131010_0_miller" ID="{0B67FD02-5E93-4DA4-84F7-57C330E738E1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV2000_191010" ID="{5FE07B09-DDD9-4400-AE13-F39B409CEF64}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV2000_191010_0_miller" ID="{9714458B-8C41-4696-A696-ED4C8C950900}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV2000_141010" ID="{73CDA02F-3504-4DEF-A0F0-A9C8A87DCD1F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV2000_141010_0_miller" ID="{36F459AA-B8BE-4129-BF70-DA853AAE9D1F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV2000_111010" ID="{8D645AF6-7403-45A3-8712-75A1E93B2EA4}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV2000_111010_0_miller" ID="{3BAABEEB-F381-4833-9485-D09A47B42489}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_RTR" ID="{F66D358E-9D66-483B-909E-C8F94BA67002}">
@@ -10788,6 +10833,15 @@
 								<AudioNodeRef Name="RDPS1000_121111_0_miller" ID="{1642853F-C9A3-4088-8DC3-945638BDC612}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{DD264C93-AD49-490A-B3F3-A25B7F593F16}" />
+								<PathElementRef Name="SUVV1000_101a10" ID="{6E063E9D-D3E4-4859-A6CE-ED8FEFAAAD5C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SUVV1000_101a10_0_miller" ID="{50FA15E3-3117-4FA0-9EC8-4955FEEFF069}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
 					</EntryList>
 				</DialogueEvent>
 				<DialogueEvent Name="DD_OPR" ID="{5C74FC89-63D4-40E5-8375-BECC1AB765D0}">
@@ -12891,7 +12945,194 @@
 						</Entry>
 					</EntryList>
 				</DialogueEvent>
-				<DialogueEvent Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}" />
+				<DialogueEvent Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}">
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0050" ID="{9EBD09D5-0BFB-4358-9A27-C3AD409E26B4}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_141010_0_pilot" ID="{3A8DC599-81EE-4C8F-8365-7C3D5DB6EBA3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0160" ID="{7FA9D408-879A-4FD1-93A8-5370A9398484}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151820_0_pilot" ID="{F2E02F6B-87D9-4D7F-91DF-3A475E50A86D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0190" ID="{C1D7528E-872F-4793-89F9-7F55CDB04EBF}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151a12_0_pilot" ID="{C7092D49-2D8B-4AF6-A66C-E365ED4FAD2D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0210" ID="{DFBA58C9-AC7C-4D1D-AA7A-9004E55FD94D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151a14_0_pilot" ID="{AE17932B-F627-4242-983A-689CB763C4F8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0290" ID="{CA5760C2-7FFA-43DC-92FB-78246F776960}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151i10_0_pilot" ID="{9253874B-DC80-4478-A091-BBCE61DAAE95}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0030" ID="{F8299CAA-95B6-4165-ACCD-2ACC1428AFAE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_121010_0_pilot" ID="{1B62C740-B5BD-4B0C-9E66-055CF7D34F9B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0200" ID="{8068DBD5-E905-4D6B-B966-A5560248EB53}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151a13_0_pilot" ID="{3C23B567-38E9-4334-9BF4-D9DAAAF7BFBA}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0180" ID="{FC44FEA4-02F5-4F0C-8825-47D944FAAB5F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151a10_0_pilot" ID="{85D07656-7A61-4CA8-9104-0B73AAE26023}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0020" ID="{58B16B27-186E-4C25-886D-23BBCF3C68AB}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_111010_0_pilot" ID="{83B7D2BC-3A5E-46A2-B17C-87F4560087D7}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0110" ID="{92B34C2D-B3AF-4AF2-A77D-A3D6C59A8F6B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151410_0_pilot" ID="{3C69246B-5508-4F4E-AB93-0DCE2CE5E57E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0040" ID="{58E07DB1-1F58-477C-ADD7-AF9BCD1018D9}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_131010_0_pilot" ID="{5FB7FB80-BAEC-4A8E-8CF6-0D6AF99417AA}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0140" ID="{189172B0-44F8-4145-9AA7-55FDD3424A97}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151710_0_pilot" ID="{6A8B5642-FD69-4973-B32D-809798EE4FCE}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0220" ID="{62C09A5A-359B-4959-8291-C1444EB1FD7D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151a15_0_pilot" ID="{F35F6027-B263-4E8A-88CF-C3F4ED006FC3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0070" ID="{E133F8AF-AB4B-4C35-B173-CACBB2FEAE2F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151110_0_pilot" ID="{66B9CC45-AB94-43AC-8E30-E2A2F16FC21E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0170" ID="{95A5DA65-4D88-452C-9353-E39442902000}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151910_0_pilot" ID="{04ACF81A-C814-4533-A6F3-9FEE6B9829F7}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0230" ID="{C33F4982-8561-4BF1-93A8-258E2B13DD71}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SHR0230_GZ" ID="{B24797C7-D87F-4502-935A-3B612AF6E0EB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0010" ID="{2A83FF42-29AB-404A-81CE-BE409961097D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_101010_0_pilot" ID="{695ED50A-4DB4-4359-97A1-7FF07566EE77}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0150" ID="{96CBD954-3BE8-4E24-B253-0BE3B404DA37}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151810_0_pilot" ID="{866C3602-1D6E-4669-917C-AB9C9B6DE620}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0300" ID="{A9307D4B-1F7E-4638-8D2E-77E13C7AD7A1}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151j10_0_pilot" ID="{5423BE7C-5D9E-4ACB-B58A-5BB40B3C1C6B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHR0320" ID="{17CA9964-48CE-4158-BFA1-420EE9D724D6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_151k10_0_pilot" ID="{97BB2560-A4EC-4700-A581-073F635D7EE9}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
 				<DialogueEvent Name="DD_e0010_tape" ID="{A0893E6E-268A-431C-BB78-E65BA6CDB09F}">
 					<ArgumentList>
 						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
@@ -13121,6 +13362,23 @@
 							</Path>
 							<AudioNodeInfo>
 								<AudioNodeRef Name="PPRG7000_281010_0_chico_sit_breath02" ID="{9B08AEA6-FB39-438F-B4B2-63E668216FC4}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+				<DialogueEvent Name="DD_vox_SH_voice_gz" ID="{E4D79B0E-8318-4704-B87C-9BFFBC6F3278}">
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="PILOT" ID="{A9C61B2E-5B58-4BD0-A39F-BD3B1481C280}" />
+								<PathElementRef Name="SHV0150" ID="{7D02364B-6066-4AC1-A759-628BCFAC267A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="HELI1001_1n1l10_0_pilot" ID="{4B3324C5-8DFA-49F7-AE24-7C1F5C00CD42}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
 							</AudioNodeInfo>
 						</Entry>
 					</EntryList>
