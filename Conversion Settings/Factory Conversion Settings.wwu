@@ -59,6 +59,11 @@
 										<Value Platform="VitaHW">3</Value>
 									</ValueList>
 								</Property>
+								<Property Name="UseFilenameMarker" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
 							</PropertyList>
 							<ConversionPluginInfoList>
 								<ConversionPluginInfo Platform="XboxOne">
@@ -334,7 +339,6 @@
 								</Property>
 								<Property Name="SampleRate" Type="int32">
 									<ValueList>
-										<Value>0</Value>
 										<Value Platform="XboxOne">0</Value>
 										<Value Platform="VitaSW">0</Value>
 										<Value Platform="Windows">0</Value>
@@ -431,7 +435,6 @@
 								</Property>
 								<Property Name="SampleRate" Type="int32">
 									<ValueList>
-										<Value>0</Value>
 										<Value Platform="XboxOne">0</Value>
 										<Value Platform="VitaSW">0</Value>
 										<Value Platform="Windows">0</Value>
@@ -572,7 +575,6 @@
 								</Property>
 								<Property Name="SampleRate" Type="int32">
 									<ValueList>
-										<Value>0</Value>
 										<Value Platform="XboxOne">0</Value>
 										<Value Platform="VitaSW">0</Value>
 										<Value Platform="Windows">0</Value>
@@ -717,7 +719,6 @@
 								</Property>
 								<Property Name="SampleRate" Type="int32">
 									<ValueList>
-										<Value>0</Value>
 										<Value Platform="XboxOne">0</Value>
 										<Value Platform="VitaSW">0</Value>
 										<Value Platform="Windows">0</Value>
@@ -1109,7 +1110,6 @@
 								</Property>
 								<Property Name="SampleRate" Type="int32">
 									<ValueList>
-										<Value>0</Value>
 										<Value Platform="XboxOne">0</Value>
 										<Value Platform="VitaSW">0</Value>
 										<Value Platform="Windows">0</Value>

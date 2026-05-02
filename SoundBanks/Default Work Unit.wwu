@@ -1719,6 +1719,29 @@
 						</SoundBank>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="gz_endroll" ID="{925D6EC8-5415-4F86-A83B-AB541EE1A75F}" ShortID="599871146">
+					<ChildrenList>
+						<SoundBank Name="gz_endroll" ID="{6CCB7BDB-6011-45E6-9755-EAE16A3FFCF7}">
+							<ObjectInclusionList>
+								<ObjectRef Name="gz_endroll" ID="{F60EE4D5-3260-4E94-A369-502D8035D12D}" WorkUnitID="{47449972-05FC-422A-A5F0-08D7B2E8B7EB}" Filter="3" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="vox_player_raiden" ID="{AB050C80-E479-46F0-B4F5-254F984872EB}" ShortID="995033129">
+					<ChildrenList>
+						<SoundBank Name="vox_player_raiden" ID="{9D094C77-1759-4A44-B5A0-A291B10E405D}">
+							<ObjectInclusionList>
+								<ObjectRef Name="DD_vox_Raiden_reaction" ID="{002B0B98-3E7A-4333-8987-3BD1CF9E3D89}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="7" Origin="Manual" />
+								<ObjectRef Name="DD_Raiden" ID="{E28FC5CF-50B2-4033-9B00-F86C3E3A83D9}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="7" Origin="Manual" />
+							</ObjectInclusionList>
+							<ObjectExclusionList />
+							<GameSyncExclusionList />
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

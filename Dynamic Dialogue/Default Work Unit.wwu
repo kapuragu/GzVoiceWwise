@@ -13925,6 +13925,366 @@
 						</Entry>
 					</EntryList>
 				</DialogueEvent>
+				<DialogueEvent Name="DD_Raiden" ID="{E28FC5CF-50B2-4033-9B00-F86C3E3A83D9}">
+					<Comment>1840227031 (DD_Player)</Comment>
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0040_003" ID="{0357446E-DAF8-4183-8DE9-16EB1949AF5D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1a1010_0_raiden" ID="{DCBE5493-7B8A-47D1-91CE-672A0A6FE682}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0050_003" ID="{1B7012AB-7E65-4085-BB11-EABF18FE8DBE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1010_0_raiden" ID="{BA408D47-D3E7-4CC5-B44C-C30F71CD1EB8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0020_001" ID="{0A6B5CB8-AFB2-4139-BEFF-64CC5BD713C9}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_121010_0_raiden" ID="{16F3229D-1690-470C-9562-A22361F1CCE8}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0040_001" ID="{45B8068F-7D6A-4BC2-BADC-E05F55B64597}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_181010_0_raiden" ID="{6A83FB14-8987-4A74-A5EE-B0710431F853}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_001" ID="{687CF6BA-ADC5-4063-BDB9-5514299274B7}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1110_0_raiden" ID="{9853D540-3694-46D6-A8B9-7CED21E358EB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0030_002" ID="{8D205D5E-9B51-4289-B1E8-4C001F4CA769}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_161010_0_raiden" ID="{F30D2BA5-0B48-4F94-9437-6B797DF669BC}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_002" ID="{D9DF30BA-603D-4F27-A220-32797D3FBE0F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1210_0_raiden" ID="{F655D641-3F3C-45EE-972B-896F102ACECB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0010_001" ID="{C1528A2D-8B80-439A-9F28-45D323F42EB7}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_101010_0_raiden" ID="{361B51C5-F4F8-46B0-AD65-40726C74A2FB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_003" ID="{CEE1237F-5FC2-4A1C-9E74-E96BA7C6957B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1310_0_raiden" ID="{BA47F058-C0EE-4C38-8B58-0B0D6EFC1DE3}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_005" ID="{ED92EABB-176C-4BD4-BBFB-2A48DAE8318B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1510_0_raiden" ID="{D1A11078-9A36-48BA-92A3-EF5264F6A2FA}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0030_001" ID="{2887E59B-C788-4B50-9565-69B9C42DC21F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_151010_0_raiden" ID="{FB0A8385-8388-4214-808C-9B24826C55B2}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0010_002" ID="{1FAB35AF-9CFF-4E86-A32B-9FDAA42D7088}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_111010_0_raiden" ID="{ADF7AE6D-3260-44C6-8DCE-6F0E5370FB7E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0040_002" ID="{BF93A7E6-B361-42E6-AB17-1585816346B4}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_191010_0_raiden" ID="{6B3FB0F6-6630-4891-9D94-BAFA77805E6E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_006" ID="{F550D7F7-1A50-4A22-B14F-7EE898FC5A0D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1610_0_raiden" ID="{BC4AF57D-9644-47FA-BA70-574EBEF17E6D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0050_001" ID="{E9F06DBE-12E0-456E-8DCA-B373136D3B71}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1b1010_0_raiden" ID="{3FF97AED-E006-426B-9172-81D401F9FE1D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0020_003" ID="{7FE94142-FF6C-4805-9344-D61B8314EF0B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_141010_0_raiden" ID="{5E1BF8D1-BBA4-48CE-A297-68FDD533219C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_004" ID="{75A4BAF6-72AF-4F14-AF7B-00A64629CF42}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1410_0_raiden" ID="{C55D4BCC-C1AF-4895-9F2A-2E1EA646710B}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0020_002" ID="{B5BBC711-EB80-4F9C-810E-0E4594569A2F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_131010_0_raiden" ID="{8882CE93-131F-428B-B2C3-AC9C7EEA05EA}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0050_002" ID="{7D291F04-DFF1-44B1-B6EE-E63D9B3A919E}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1c1010_0_raiden" ID="{F94D2C09-19B7-4C16-ABE9-38174518151A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0053_007" ID="{8C3687D3-EAF8-4A52-BA93-5F9655F40908}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1d1710_0_raiden" ID="{A941B5CC-9E77-403F-B226-3E52DDBF5B3C}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0030_003" ID="{8C6E6151-7D70-48D7-8294-BC7432FEC44E}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_171010_0_raiden" ID="{5DAF27A1-C9F6-4994-AC02-35A9531A5C9D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0079_001" ID="{702531D7-57CF-4EA7-AD94-5F33793A7EAA}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0079_001" ID="{AA91AC20-EF2C-4421-A344-667AE77F3F89}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0080_001" ID="{77448CE6-1DC5-46A2-BA0F-0418A9715641}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0080_001" ID="{3E1D3EF0-CFB5-49CD-B267-5DA5E1C20328}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0150_001" ID="{7CB280DC-4CEB-4A46-AD8C-BA2EA4D10F39}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0150_001" ID="{FF662FF8-6048-46A2-81D2-639D301E111A}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0170_001" ID="{D7A38413-6B51-4B31-B0C6-7038AB9A0F7B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0170_001" ID="{12DFF136-F953-4710-844F-05531917762F}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0160_001" ID="{079FC8D1-699E-4CEB-AA6B-1754AD9EC4A9}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0160_001" ID="{FE42BE02-4A11-449E-B3B1-5E342573F205}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0120_001" ID="{997DFE15-9AF8-4B78-B390-39650E4FC583}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_221012_0_raiden" ID="{249F58F7-1D3A-4329-B6E8-05F09F96007E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0190_001" ID="{C971991A-E7B1-4B53-A52E-5482E56F78FF}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0190_001" ID="{1B3E835B-B296-4EC9-9C14-75CB860A6F3E}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0200_001" ID="{BF06FDD5-F99A-421C-BD71-E0C7963B8F33}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0200_001" ID="{84535A86-EFC7-4686-8CE6-4374F7910072}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0290_001" ID="{E53B6090-A607-457E-A76C-98458F24B446}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_2l1010_0_raiden" ID="{ECDB20A2-4BE0-431F-B859-869A57A50C19}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0090_001" ID="{B1C8DF48-D951-4C88-A152-161B248460B0}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0090_001" ID="{5E08E646-AB86-48FE-9EDF-F539FBB5B83D}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0280_001" ID="{ACA7B764-16E4-4719-B062-868974DC6866}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_2k1010_0_raiden" ID="{6431FF8E-056C-42B8-8C78-D0FC315ABFD5}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0300_001" ID="{3C21D4B8-2702-4F8B-9485-39EB4761CA5B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_2m1010_0_raiden" ID="{B1E1202B-1C9C-4FDF-89F4-8CDDDD7AB393}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0140_001" ID="{0023CD2F-1131-45C4-A4A3-F844E046DF4F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0140_001" ID="{F73183C8-F647-4DA6-B69B-1AA51B628C27}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0100_001" ID="{2A2893D0-3B1E-412E-AF04-CB5CFFE3E57D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0100_001" ID="{54034155-4588-40E5-9378-0A8A1D763481}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="PLA0230_001" ID="{6EE187F6-DB58-4BB5-B084-D6F2EACD4423}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="PLA0230_001" ID="{621BC542-3CC5-4BDA-9A7C-CAE697085952}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+				<DialogueEvent Name="DD_vox_Raiden_reaction" ID="{002B0B98-3E7A-4333-8987-3BD1CF9E3D89}">
+					<Comment>3882561912 (DD_vox_Snake_reaction)</Comment>
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{F81C21DB-B5C8-42CC-A588-0CCDF53AC78D}" />
+						<ArgumentRef Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="cure02" ID="{BCBABDFF-16DB-4849-86B6-7A84E86A981D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1w1110_0_raiden_cure02" ID="{E0159396-C0AB-4483-BFE7-423487DE41F1}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
+								<PathElementRef Name="cure01" ID="{1ACFB682-148D-493F-A558-68512C73FDD5}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="RIDN1000_1w1010_0_raiden_cure01" ID="{7F8045C1-D17D-40E1-89F4-473854B2CFBB}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
 			</ChildrenList>
 		</WorkUnit>
 	</DynamicDialogue>

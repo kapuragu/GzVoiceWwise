@@ -62,6 +62,7 @@
 						<State Name="HIDEO" ID="{DE1FDAC6-4011-412D-9353-07A7A8C83F02}" />
 						<State Name="SNAK" ID="{327DF08E-4085-4833-8D19-308871C902E6}" />
 						<State Name="paz" ID="{FED4A040-22EF-4103-9F95-76C4706C3BBF}" />
+						<State Name="raiden" ID="{7EC8179F-C982-42EF-97F5-0FDDD2B850E6}" />
 					</ChildrenList>
 				</StateGroup>
 				<StateGroup Name="condition" ID="{6F2B1F0E-8FB9-4F49-9E3B-8D2419387C09}">
@@ -1581,12 +1582,118 @@
 						<State Name="shv0360_09" ID="{7C33798B-B4FB-45D1-B7BE-B48D2EA66C32}" />
 						<State Name="shv0360_10" ID="{A5536192-0183-429B-B120-7133726FFE8B}" />
 						<State Name="shv0360_11" ID="{45F7E16B-9A62-431C-AB68-AD2104DE1511}" />
+						<State Name="PLA0010_001" ID="{C1528A2D-8B80-439A-9F28-45D323F42EB7}" />
+						<State Name="PLA0010_002" ID="{1FAB35AF-9CFF-4E86-A32B-9FDAA42D7088}" />
+						<State Name="PLA0020_001" ID="{0A6B5CB8-AFB2-4139-BEFF-64CC5BD713C9}" />
+						<State Name="PLA0020_002" ID="{B5BBC711-EB80-4F9C-810E-0E4594569A2F}" />
+						<State Name="PLA0020_003" ID="{7FE94142-FF6C-4805-9344-D61B8314EF0B}" />
+						<State Name="PLA0030_001" ID="{2887E59B-C788-4B50-9565-69B9C42DC21F}" />
+						<State Name="PLA0030_002" ID="{8D205D5E-9B51-4289-B1E8-4C001F4CA769}" />
+						<State Name="PLA0030_003" ID="{8C6E6151-7D70-48D7-8294-BC7432FEC44E}" />
+						<State Name="PLA0040_001" ID="{45B8068F-7D6A-4BC2-BADC-E05F55B64597}" />
+						<State Name="PLA0040_002" ID="{BF93A7E6-B361-42E6-AB17-1585816346B4}" />
+						<State Name="PLA0040_003" ID="{0357446E-DAF8-4183-8DE9-16EB1949AF5D}" />
+						<State Name="PLA0050_001" ID="{E9F06DBE-12E0-456E-8DCA-B373136D3B71}" />
+						<State Name="PLA0050_002" ID="{7D291F04-DFF1-44B1-B6EE-E63D9B3A919E}" />
+						<State Name="PLA0050_003" ID="{1B7012AB-7E65-4085-BB11-EABF18FE8DBE}" />
+						<State Name="PLA0053_001" ID="{687CF6BA-ADC5-4063-BDB9-5514299274B7}" />
+						<State Name="PLA0053_002" ID="{D9DF30BA-603D-4F27-A220-32797D3FBE0F}" />
+						<State Name="PLA0053_003" ID="{CEE1237F-5FC2-4A1C-9E74-E96BA7C6957B}" />
+						<State Name="PLA0053_004" ID="{75A4BAF6-72AF-4F14-AF7B-00A64629CF42}" />
+						<State Name="PLA0053_005" ID="{ED92EABB-176C-4BD4-BBFB-2A48DAE8318B}" />
+						<State Name="PLA0053_006" ID="{F550D7F7-1A50-4A22-B14F-7EE898FC5A0D}" />
+						<State Name="PLA0053_007" ID="{8C3687D3-EAF8-4A52-BA93-5F9655F40908}" />
+						<State Name="PLM0010_001" ID="{BE9ABE97-3E18-49F4-A7DB-72D61AD82748}" />
+						<State Name="PLM0010_002" ID="{3713BF98-B3F8-4DF1-8FC6-999CF057896A}" />
+						<State Name="PLM0010_003" ID="{A6A9F18D-A1A1-43AA-B8EE-09B842E45963}" />
+						<State Name="PLM0010_004" ID="{C763792D-430F-4483-8E5C-8C5746CE3B2E}" />
+						<State Name="PLM0010_005" ID="{C12E259B-917A-4796-8B52-C64F0E6E3739}" />
+						<State Name="PLM0010_006" ID="{DCC2CEA7-87F4-4EB5-8F1E-A375A3DC569F}" />
+						<State Name="PLM0010_007" ID="{F15BD0BC-A3BD-427F-82FD-ED19FA976E1B}" />
+						<State Name="PLM0010_008" ID="{8E7D3C29-2581-437C-A48F-AC15E5668422}" />
+						<State Name="PLM0010_009" ID="{21C0A0E7-3E16-4D4A-8AD4-BDD36818F192}" />
+						<State Name="PLM0020_001" ID="{2F9D8542-3F9E-4D87-9300-DC26EC0B1FFA}" />
+						<State Name="PLM0020_005" ID="{F5604414-ADD1-448B-83E6-E706283449CD}" />
+						<State Name="PLM0020_002" ID="{3E5AD91C-E254-4FBE-8E30-A6FDCE0A4FB4}" />
+						<State Name="PLM0020_003" ID="{B6039D28-2152-411E-9631-593EED79183C}" />
+						<State Name="PLM0020_004" ID="{F926E93D-2969-4EB3-BEB5-10B3F40212BD}" />
+						<State Name="cure01" ID="{1ACFB682-148D-493F-A558-68512C73FDD5}">
+							<Comment>344340327</Comment>
+						</State>
+						<State Name="cure02" ID="{BCBABDFF-16DB-4849-86B6-7A84E86A981D}">
+							<Comment>344340324</Comment>
+						</State>
+						<State Name="PLA0079_001" ID="{702531D7-57CF-4EA7-AD94-5F33793A7EAA}" />
+						<State Name="PLA0080_001" ID="{77448CE6-1DC5-46A2-BA0F-0418A9715641}" />
+						<State Name="PLA0150_001" ID="{7CB280DC-4CEB-4A46-AD8C-BA2EA4D10F39}" />
+						<State Name="PLA0170_001" ID="{D7A38413-6B51-4B31-B0C6-7038AB9A0F7B}" />
+						<State Name="PLA0160_001" ID="{079FC8D1-699E-4CEB-AA6B-1754AD9EC4A9}" />
+						<State Name="PLA0120_001" ID="{997DFE15-9AF8-4B78-B390-39650E4FC583}" />
+						<State Name="PLA0190_001" ID="{C971991A-E7B1-4B53-A52E-5482E56F78FF}" />
+						<State Name="PLA0200_001" ID="{BF06FDD5-F99A-421C-BD71-E0C7963B8F33}" />
+						<State Name="PLA0290_001" ID="{E53B6090-A607-457E-A76C-98458F24B446}" />
+						<State Name="PLA0090_001" ID="{B1C8DF48-D951-4C88-A152-161B248460B0}" />
+						<State Name="PLA0280_001" ID="{ACA7B764-16E4-4719-B062-868974DC6866}" />
+						<State Name="PLA0300_001" ID="{3C21D4B8-2702-4F8B-9485-39EB4761CA5B}" />
+						<State Name="PLA0140_001" ID="{0023CD2F-1131-45C4-A4A3-F844E046DF4F}" />
+						<State Name="PLA0100_001" ID="{2A2893D0-3B1E-412E-AF04-CB5CFFE3E57D}" />
+						<State Name="PLA0230_001" ID="{6EE187F6-DB58-4BB5-B084-D6F2EACD4423}" />
 					</ChildrenList>
 				</StateGroup>
-				<StateGroup Name="a0ej00mu" ID="{78141C11-7772-4887-97AD-D1AB2BCF7411}">
+				<StateGroup Name="c10200l" ID="{78141C11-7772-4887-97AD-D1AB2BCF7411}">
 					<ChildrenList>
 						<State Name="None" ID="{59D2367A-E5C1-46F7-BDF2-A6B40A3B0409}" />
 						<State Name="scope" ID="{3ABED1A9-71D9-4ED0-BADA-197E68555A6D}" />
+						<State Name="listen" ID="{016DCFE0-A51D-4C84-A2BD-88C69423D8B0}">
+							<Comment>3369760968</Comment>
+						</State>
+						<State Name="playdead" ID="{85AF0EF7-343B-461F-8C2F-BF067F85111A}">
+							<Comment>662274965</Comment>
+						</State>
+						<State Name="dying" ID="{539C8660-4B8D-4450-AA76-4E440C2D2859}">
+							<Comment>3328495488
+OLD: 1007152837</Comment>
+						</State>
+						<State Name="sleep" ID="{2B3CAF49-FFE3-4DD8-BD49-B0C648B832D7}">
+							<Comment>3671647190</Comment>
+						</State>
+						<State Name="synaptic_violet" ID="{70A72EF1-C240-481C-B503-AAE0A3CE59C8}">
+							<Comment>3299004024</Comment>
+						</State>
+						<State Name="stun" ID="{088B0E85-00E4-493E-A863-19A8F5A62E26}">
+							<Comment>352666449</Comment>
+						</State>
+						<State Name="highspeed" ID="{3D6F56CF-9F86-4AB1-935A-284D80E923F6}">
+							<Comment>909092410</Comment>
+						</State>
+						<State Name="injured" ID="{F11CED46-C3EF-4C75-AFCA-02DB0E97696A}">
+							<Comment>2860195132
+OLD: 575965534</Comment>
+						</State>
+						<State Name="nomic" ID="{B7A190F6-7571-4AFB-8C0D-701115ED398D}">
+							<Comment>4092900741</Comment>
+						</State>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="camera_fps" ID="{820BF039-4EE9-499B-A880-D4C415E4B5D9}">
+					<Comment>3343370512</Comment>
+					<ChildrenList>
+						<State Name="None" ID="{7997EB3D-E296-41E5-8EC9-14EDE2EE7B55}" />
+						<State Name="fps" ID="{C716BFBC-491F-4A53-B4F7-3D0EC4EA0357}">
+							<Comment>932139042</Comment>
+						</State>
+						<State Name="intrusion" ID="{FC6CAC9F-8DB6-4CC7-B5B1-194FF8F705E6}">
+							<Comment>676729040</Comment>
+						</State>
+						<State Name="cbox" ID="{036E6E79-03FC-4948-B8A6-B7D1F491F292}">
+							<Comment>3703100175</Comment>
+						</State>
+						<State Name="locker" ID="{EE417274-B0A8-45F0-92B7-CB97479004F1}">
+							<Comment>136945973</Comment>
+						</State>
+						<State Name="dbox" ID="{9455261D-49AD-4061-9D02-6C06C4FABCD9}">
+							<Comment>2412907098</Comment>
+						</State>
 					</ChildrenList>
 				</StateGroup>
 			</ChildrenList>

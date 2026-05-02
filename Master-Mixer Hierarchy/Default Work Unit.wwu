@@ -6,8 +6,10 @@
 				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
 					<ChildrenList>
 						<Bus Name="axfywjh" ID="{96AA83A3-CD20-4D41-B4EF-2DB59F1002FF}">
+							<Comment>388974786</Comment>
 							<ChildrenList>
 								<Bus Name="nhisih" ID="{02B041FC-E3BC-464E-894B-6D15CA0048B1}">
+									<Comment>3872231184</Comment>
 									<ChildrenList>
 										<Bus Name="music_system_bus" ID="{AE1659AB-E3D4-4D4C-B5C4-5D6BB26FB7CF}">
 											<PropertyList>
@@ -65,6 +67,16 @@
 											</DuckingList>
 										</Bus>
 									</ChildrenList>
+								</Bus>
+								<Bus Name="dl34gc" ID="{C42C0E3F-F6F8-4EDD-A161-AAB9F4713EA1}">
+									<Comment>1386671870</Comment>
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-5.5</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
 								</Bus>
 							</ChildrenList>
 						</Bus>

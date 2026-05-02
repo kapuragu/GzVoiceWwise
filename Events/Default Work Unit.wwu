@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{47449972-05FC-422A-A5F0-08D7B2E8B7EB}" SchemaVersion="62">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{47449972-05FC-422A-A5F0-08D7B2E8B7EB}" PersistMode="Standalone" />
+		<WorkUnit Name="Default Work Unit" ID="{47449972-05FC-422A-A5F0-08D7B2E8B7EB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="gz_endroll" ID="{F60EE4D5-3260-4E94-A369-502D8035D12D}" ShortID="756388640">
+					<ChildrenList>
+						<Event Name="Play_gz_endroll" ID="{0376B0FD-667C-4403-BCA3-8D54C78697D2}">
+							<ChildrenList>
+								<Action Name="Play" ID="{6CDD8E09-4262-4A24-B535-FCF56C0FA1D3}" ShortID="880314585" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{21C542EC-EA5E-4AFF-A7B7-5F99DDF1F76F}" Global="false">
+											<ObjectRef Name="gz_endroll" ID="{9F28E18A-76B1-4F74-97D3-FC4EFEB63EFF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_gz_endroll" ID="{D0D52467-F814-4549-B6B7-7684E9F97781}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{4B18D185-7ECA-48A2-AB85-E62CA78CD3C4}" ShortID="236689163" Type="Stop" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{D1B29600-267C-42FB-A042-9C0D17FC05A9}" Global="false">
+											<ObjectRef Name="gz_endroll" ID="{9F28E18A-76B1-4F74-97D3-FC4EFEB63EFF}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
