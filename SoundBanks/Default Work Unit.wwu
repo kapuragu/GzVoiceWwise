@@ -37,8 +37,8 @@
 						</SoundBank>
 						<SoundBank Name="vox_gz_sh" ID="{24B5AFD9-572F-43DB-84BC-89B795EC7F64}">
 							<ObjectInclusionList>
-								<ObjectRef Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="1" Origin="Manual" />
-								<ObjectRef Name="AM_Gntn_Radio_SH" ID="{9EB0D070-EF84-446D-949A-EE802B4B41C7}" WorkUnitID="{3AACD989-49E0-46F8-B8EB-1EE133DA62AB}" Filter="2" Origin="Manual" />
+								<ObjectRef Name="DD_vox_SH_voice_gz" ID="{E4D79B0E-8318-4704-B87C-9BFFBC6F3278}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="3" Origin="Manual" />
+								<ObjectRef Name="DD_vox_SH_radio_gz" ID="{B126223F-9FFB-403A-9570-E218FAB2A1F2}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="3" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
@@ -1734,8 +1734,8 @@
 					<ChildrenList>
 						<SoundBank Name="vox_player_raiden" ID="{9D094C77-1759-4A44-B5A0-A291B10E405D}">
 							<ObjectInclusionList>
-								<ObjectRef Name="DD_vox_Raiden_reaction" ID="{002B0B98-3E7A-4333-8987-3BD1CF9E3D89}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="7" Origin="Manual" />
-								<ObjectRef Name="DD_Raiden" ID="{E28FC5CF-50B2-4033-9B00-F86C3E3A83D9}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="7" Origin="Manual" />
+								<ObjectRef Name="DD_vox_Raiden_reaction" ID="{002B0B98-3E7A-4333-8987-3BD1CF9E3D89}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="3" Origin="Manual" />
+								<ObjectRef Name="DD_Raiden" ID="{E28FC5CF-50B2-4033-9B00-F86C3E3A83D9}" WorkUnitID="{BB8E0781-53ED-4995-BEEC-72811C533B5A}" Filter="3" Origin="Manual" />
 							</ObjectInclusionList>
 							<ObjectExclusionList />
 							<GameSyncExclusionList />
