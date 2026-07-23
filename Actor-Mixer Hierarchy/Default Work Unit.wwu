@@ -146284,6 +146284,42 @@
 														<ActiveSource Name="INTL1000_1l1210_0_miller" ID="{8EC293C6-9F02-4896-A502-88D4DEF1B295}" Platform="Linked" />
 													</ActiveSourceList>
 												</Sound>
+												<Sound Name="SLTB0z00_1s1010_0_miller" ID="{FD732E71-15B0-425E-AF0A-90D935FE09E3}" ShortID="152926552" Type="Voice">
+													<PropertyList>
+														<Property Name="IsStreamingEnabled" Type="bool">
+															<ValueList>
+																<Value>True</Value>
+															</ValueList>
+														</Property>
+														<Property Name="Priority" Type="int16">
+															<ValueList>
+																<Value>100</Value>
+															</ValueList>
+														</Property>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{475055EE-4095-46F4-9E40-C36070F612B7}" />
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<AudioFileSource Name="SLTB0z00_1s1010_0_miller" ID="{C127A70E-1FE2-4B93-8FE1-90708FD24837}" ShortID="802057044">
+															<Language>English(US)</Language>
+															<AudioFile>SLTB0z00_1s1010_0_miller.wav</AudioFile>
+														</AudioFileSource>
+														<AudioFileSource Name="SLTB0z00_1s1010_0_miller" ID="{F701A0AB-23B1-4CF2-983B-A18CE0AE0224}" ShortID="1018426764">
+															<Language>Japanese</Language>
+															<AudioFile>SLTB0z00_1s1010_0_miller.wav</AudioFile>
+														</AudioFileSource>
+													</ChildrenList>
+													<ConversionInfo>
+														<ConversionRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" />
+													</ConversionInfo>
+													<ActiveSourceList>
+														<ActiveSource Name="SLTB0z00_1s1010_0_miller" ID="{C127A70E-1FE2-4B93-8FE1-90708FD24837}" Platform="Linked" />
+														<ActiveSource Name="SLTB0z00_1s1010_0_miller" ID="{F701A0AB-23B1-4CF2-983B-A18CE0AE0224}" Platform="Linked" />
+													</ActiveSourceList>
+												</Sound>
 											</ChildrenList>
 										</Folder>
 										<Folder Name="DD_ESR" ID="{CFC337A9-5F82-41FF-B200-F9342A08D889}" ShortID="507231141">
